@@ -1,0 +1,6 @@
+package family
+
+class First
+{
+	
+}
